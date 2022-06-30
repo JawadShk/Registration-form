@@ -1,0 +1,20 @@
+body{
+    background-color: midnightblue;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.edit_lable{
+    color: red;
+}
+.content{
+    margin-bottom: 2%;
+}
+#button{
+    color: white;
+    text-align: center;
+    background-color:darkcyan;
+    width: 175px;
+}
